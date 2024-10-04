@@ -1,0 +1,59 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+
+# Ignore node_modules directory (common in JavaScript/Node.js projects)
+node_modules/
+
+# Ignore build directories (common for many projects)
+dist/
+build/
+
+# Ignore VS Code specific settings
+.vscode/
+
+# Ignore log files
+*.log
+
+# Ignore environment variable files
+.env
+.env.*    # Supports variations like .env.local, .env.production
+
+# Ignore compiled Python files
+*.pyc
+__pycache__/
+
+# Ignore Java dependencies
+*.class
+*.jar
+*.war
+
+# Ignore Rust build output
+target/
+
+# Ignore JavaScript package lock and yarn lock (if needed)
+package-lock.json
+yarn.lock
+
+# Ignore Python virtual environment
+venv/
+.env/
+
+# Ignore JetBrains IDE project files (if using both VS Code and IntelliJ, for example)
+.idea/
+
+# Ignore TypeScript build artifacts
+*.tsbuildinfo
+
+# Ignore lock files (common in different programming languages)
+*.lock
+
+# Ignore Go binaries
+*.exe
+*.out
+
+# Ignore Docker files and volumes
+docker-compose.override.yml
+volumes/
