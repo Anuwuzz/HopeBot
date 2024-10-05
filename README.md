@@ -27,6 +27,8 @@
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
+```
+```bash
 cd your-repo-name
 ```
 ### Install Dependencies
