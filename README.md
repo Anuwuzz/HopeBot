@@ -3,6 +3,9 @@
 ## 📖 Overview
 **HopeBot** is a friendly mental health support chatbot designed to engage in compassionate and understanding conversations. Whether you need advice, a listening ear, or some uplifting words, HopeBot is here to help! 💬❤️
 
+## 🌐 Live Demo
+Experience the magic! Check out the live version of the project at: [HopeBot]( https://anuwuzz.github.io/Bubbles/) ☁️
+
 ## 📸 Screenshots
 ![Home Screen](images/main-page.png)
 ![Chat Interface](images/chat-page.png)
