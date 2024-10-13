@@ -3,6 +3,10 @@
 ## 📖 Overview
 **HopeBot** is a friendly mental health support chatbot designed to engage in compassionate and understanding conversations. Whether you need advice, a listening ear, or some uplifting words, HopeBot is here to help! 💬❤️
 
+## 📸 Screenshots
+![Home Screen](images/main-page.png)
+![Chat Interface](images/chat-page.png)
+
 ## 🚀 Features
 - 🤖 **Interactive Chat**: Engage in real-time conversations.
 - 🎮 **Fun Suggestions**: Explore games, exercises, diet tips, creativity boosts, and meditation practices.
@@ -23,6 +27,8 @@
 ### Clone the Repository
 ```bash
 git clone https://github.com/yourusername/your-repo-name.git
+```
+```bash
 cd your-repo-name
 ```
 ### Install Dependencies
