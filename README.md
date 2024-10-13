@@ -4,7 +4,9 @@
 **HopeBot** is a friendly mental health support chatbot designed to engage in compassionate and understanding conversations. Whether you need advice, a listening ear, or some uplifting words, HopeBot is here to help! 💬❤️
 
 ## 🌐 Live Demo
-Experience the magic! Check out the live version of the project at: [HopeBot]( https://anuwuzz.github.io/Bubbles/) ☁️
+Experience the magic! Check out the live version of the project at: [HopeBot]( hopebot.streamlit.app/) 🤖
+
+Note: This project utilizes the Google Gemini API. The provided demo may no longer function, as the free trial period has expired. To clone and work with this project, please create your own Google Cloud account and obtain an API key.
 
 ## 📸 Screenshots
 ![Home Screen](images/main-page.png)
