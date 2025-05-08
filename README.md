@@ -1,10 +1,10 @@
 #  HopeBot: Mental Health Support Chatbot 
 
 ## Overview
-**HopeBot** is a friendly mental health support chatbot designed to engage in compassionate and understanding conversations. Whether you need advice, a listening ear, or some uplifting words, HopeBot is here to help! 💬❤️
+**HopeBot** is a friendly mental health support chatbot designed to engage in compassionate and understanding conversations. Whether you need advice, a listening ear, or some uplifting words, HopeBot is here to help! 
 
 ##  Live Demo
-Experience the magic! Check out the live version of the project at: [HopeBot](https://hopebot.streamlit.app/) 🤖
+Experience the magic! Check out the live version of the project at: [HopeBot](https://hopebot.streamlit.app/)
 
 Note: This project utilizes the Google Gemini API. The provided demo may no longer function, as the free trial period has expired. To clone and work with this project, please create your own Google Cloud account and obtain an API key.
 
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```bash
 GEMINI_API_KEY=your_actual_api_key
 ```
-### 🏃 Running the Application
+### Running the Application
 ```bash
 streamlit run app.py
 ```
