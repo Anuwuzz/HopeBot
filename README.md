@@ -17,7 +17,7 @@ Note: This project utilizes the Google Gemini API. The provided demo may no long
 -  **Fun Suggestions**: Explore games, exercises, diet tips, creativity boosts, and meditation practices.
 -  **Personalized Responses**: Conversations that feel warm and human.
 
-## 🛠 Technologies Used
+##  Technologies Used
 - **Python**: The programming language powering the app.
 - **Streamlit**: A framework for building web applications quickly.
 - **Google Generative AI**: Powers the chatbot's conversational abilities.
